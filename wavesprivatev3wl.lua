@@ -1,5 +1,6 @@
 return {
   ['Kyuteness'] = {
+    ['Allowed'] = false,
     ['FunctionsAllowed'] = {
       'CrashServer', 'VoteOverrideExploit', 'NoExitRegionForOtherCharacters',
       'SpawnOtherCharacterBuddies'
